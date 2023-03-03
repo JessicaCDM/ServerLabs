@@ -2,8 +2,10 @@
 SQLAlchemy uses the term "model" to refer to these classes and 
 instances that interact with the database. In this module we then
 define the SQLAlchemy models. 
+
 But Pydantic also uses the term "model" to refer to something different,
 the data validation, conversion, and documentation classes and instances.
+
 Links:
     https://fastapi.tiangolo.com/tutorial/sql-databases/#create-the-database-models
     https://docs.sqlalchemy.org/en/14/faq/metadata_schema.html 

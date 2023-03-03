@@ -1,7 +1,9 @@
 """
 In this file we will have reusable functions to interact with the data
 in the database. CRUD comes from: Create, Read, Update, and Delete.
+
 NOTE: Although in this example we are only creating and reading.
+
 Links:
     https://fastapi.tiangolo.com/tutorial/sql-databases/#crud-utils
 """
